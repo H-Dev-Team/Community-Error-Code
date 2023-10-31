@@ -1,0 +1,15 @@
+{
+  "name": "DSC-System-Error-Code",
+  "version": "1.0.0",
+  "description": "Errorcode share between FE and BE",
+  "main": "index.js",
+  "repository": "https://github.com/Hongik-Univ-DSC-Re-New/Error-Code-Deploy.git",
+  "author": "J-hoplin1, OseungKwon",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2"
+  }
+}
